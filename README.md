@@ -1,4 +1,4 @@
-# Fine-Tune-LLMs
+# Fine-Tuning-LLM
 This project is built on a Jupyter notebook in Python, implementing the Pytorch library.
 It displays fine-tuning of the DistilBERT LLM for the purpose of determining the sentiment of movie ratings.
 The dataset used is a smaller version of IMDB, found on the Hugging Face library.
